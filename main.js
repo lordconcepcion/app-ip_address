@@ -75,5 +75,6 @@ class IpAddress {
             return callback(jsonObject, callbackError);
         }
 
-    module.exports = new IpAddress;
-}
+}    
+
+module.exports = new IpAddress;
